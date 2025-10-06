@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+6rzOJV4mWs=",
+  "dgSpecHash": "SzEN2eZKQzY=",
   "success": true,
   "projectFilePath": "/home/hiiico/IdeaProjects/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/SeleniumWebDriver/TestProject3/TestProject3.csproj",
   "expectedPackageFiles": [
@@ -19,9 +19,7 @@
     "/home/hiiico/.nuget/packages/selenium.support/4.21.0/selenium.support.4.21.0.nupkg.sha512",
     "/home/hiiico/.nuget/packages/selenium.webdriver/4.21.0/selenium.webdriver.4.21.0.nupkg.sha512",
     "/home/hiiico/.nuget/packages/selenium.webdriver.chromedriver/126.0.6478.6100/selenium.webdriver.chromedriver.126.0.6478.6100.nupkg.sha512",
-    "/home/hiiico/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512",
-    "/home/hiiico/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
-    "/home/hiiico/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+    "/home/hiiico/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
   ],
   "logs": []
 }
