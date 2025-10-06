@@ -11,12 +11,17 @@ namespace TestProject3
     public class WorkingWithDropDown
     {
         IWebDriver driver;
+        // add to ensure browser is closed
+        ChromeOptions options;
 
         [SetUp]
         public void SetUp()
         {
+            // add to ensure browser is closed
+            options = new ChromeOptions();
+            options.AddArgument("--headless");
             // Create object of ChromeDriver
-            driver = new ChromeDriver();
+            driver = new ChromeDriver(options);
 
             // Add implicit wait
             driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
