@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3wVmRMq/FCU=",
+  "dgSpecHash": "GidI9cMYm34=",
   "success": true,
   "projectFilePath": "/home/hiiico/IdeaProjects/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/SeleniumWebDriver/TestProject1/TestProject1.csproj",
   "expectedPackageFiles": [
@@ -18,8 +18,19 @@
     "/home/hiiico/.nuget/packages/nunit3testadapter/4.2.1/nunit3testadapter.4.2.1.nupkg.sha512",
     "/home/hiiico/.nuget/packages/selenium.support/4.21.0/selenium.support.4.21.0.nupkg.sha512",
     "/home/hiiico/.nuget/packages/selenium.webdriver/4.21.0/selenium.webdriver.4.21.0.nupkg.sha512",
-    "/home/hiiico/.nuget/packages/selenium.webdriver.chromedriver/126.0.6478.6100/selenium.webdriver.chromedriver.126.0.6478.6100.nupkg.sha512",
+    "/home/hiiico/.nuget/packages/selenium.webdriver.chromedriver/141.0.7390.5400/selenium.webdriver.chromedriver.141.0.7390.5400.nupkg.sha512",
     "/home/hiiico/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "TestProject1 depends on Selenium.WebDriver.ChromeDriver (>= 141.0.7390.54) but Selenium.WebDriver.ChromeDriver 141.0.7390.54 was not found. An approximate best match of Selenium.WebDriver.ChromeDriver 141.0.7390.5400 was resolved.",
+      "libraryId": "Selenium.WebDriver.ChromeDriver",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

@@ -404,7 +404,7 @@
           "buildTransitive/Selenium.WebDriver.targets": {}
         }
       },
-      "Selenium.WebDriver.ChromeDriver/126.0.6478.6100": {
+      "Selenium.WebDriver.ChromeDriver/141.0.7390.5400": {
         "type": "package",
         "build": {
           "build/Selenium.WebDriver.ChromeDriver.targets": {}
@@ -1336,10 +1336,10 @@
         "selenium.webdriver.nuspec"
       ]
     },
-    "Selenium.WebDriver.ChromeDriver/126.0.6478.6100": {
-      "sha512": "68Y0FHY++st9Xg+TI8FMGjz3xsuKjUc4QrC+Pi1uoZHDvulECqkiLBmvUvbQweDmITwsPf43LR21W44dhpwXgA==",
+    "Selenium.WebDriver.ChromeDriver/141.0.7390.5400": {
+      "sha512": "Yax9Z5NB7Fw7VKiqo7wdeULGdbMHr4euapgZgAWuStJSsP/8JKjbUzKwv4zvk3mszPvBx3esvngVjCF7hiFDjQ==",
       "type": "package",
-      "path": "selenium.webdriver.chromedriver/126.0.6478.6100",
+      "path": "selenium.webdriver.chromedriver/141.0.7390.5400",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1356,7 +1356,7 @@
         "driver/win32/LICENSE.chromedriver",
         "driver/win32/chromedriver.exe",
         "nupkg-icon.png",
-        "selenium.webdriver.chromedriver.126.0.6478.6100.nupkg.sha512",
+        "selenium.webdriver.chromedriver.141.0.7390.5400.nupkg.sha512",
         "selenium.webdriver.chromedriver.nuspec"
       ]
     },
@@ -1390,7 +1390,7 @@
       "NUnit3TestAdapter >= 4.2.1",
       "Selenium.Support >= 4.21.0",
       "Selenium.WebDriver >= 4.21.0",
-      "Selenium.WebDriver.ChromeDriver >= 126.0.6478.6100",
+      "Selenium.WebDriver.ChromeDriver >= 141.0.7390.54",
       "coverlet.collector >= 3.1.2"
     ]
   },
@@ -1462,7 +1462,7 @@
           },
           "Selenium.WebDriver.ChromeDriver": {
             "target": "Package",
-            "version": "[126.0.6478.6100, )"
+            "version": "[141.0.7390.54, )"
           },
           "coverlet.collector": {
             "target": "Package",
@@ -1488,5 +1488,17 @@
         "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.414/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "TestProject3 depends on Selenium.WebDriver.ChromeDriver (>= 141.0.7390.54) but Selenium.WebDriver.ChromeDriver 141.0.7390.54 was not found. An approximate best match of Selenium.WebDriver.ChromeDriver 141.0.7390.5400 was resolved.",
+      "libraryId": "Selenium.WebDriver.ChromeDriver",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }
