@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/hiiico/IdeaProjects/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/SeleniumWebDriver/TestProject1/TestProject1.csproj": {}
+    "/home/hiiico/IdeaProjects/DevOps/GitHub_Projects/SeleniumWebDriver/TestProject1/TestProject1.csproj": {}
   },
   "projects": {
-    "/home/hiiico/IdeaProjects/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/SeleniumWebDriver/TestProject1/TestProject1.csproj": {
+    "/home/hiiico/IdeaProjects/DevOps/GitHub_Projects/SeleniumWebDriver/TestProject1/TestProject1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/hiiico/IdeaProjects/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/SeleniumWebDriver/TestProject1/TestProject1.csproj",
+        "projectUniqueName": "/home/hiiico/IdeaProjects/DevOps/GitHub_Projects/SeleniumWebDriver/TestProject1/TestProject1.csproj",
         "projectName": "TestProject1",
-        "projectPath": "/home/hiiico/IdeaProjects/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/SeleniumWebDriver/TestProject1/TestProject1.csproj",
+        "projectPath": "/home/hiiico/IdeaProjects/DevOps/GitHub_Projects/SeleniumWebDriver/TestProject1/TestProject1.csproj",
         "packagesPath": "/home/hiiico/.nuget/packages/",
-        "outputPath": "/home/hiiico/IdeaProjects/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/SeleniumWebDriver/TestProject1/obj/",
+        "outputPath": "/home/hiiico/IdeaProjects/DevOps/GitHub_Projects/SeleniumWebDriver/TestProject1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/hiiico/.nuget/NuGet/NuGet.Config"

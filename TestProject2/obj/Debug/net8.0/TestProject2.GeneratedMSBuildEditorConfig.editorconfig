@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TestProject2
-build_property.ProjectDir = /home/hiiico/IdeaProjects/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/SeleniumWebDriver/TestProject2/
+build_property.ProjectDir = /home/hiiico/IdeaProjects/DevOps/GitHub_Projects/SeleniumWebDriver/TestProject2/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

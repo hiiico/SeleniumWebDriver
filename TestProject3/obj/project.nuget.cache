@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Lp6kB6Y56gc=",
+  "dgSpecHash": "ML/dWbI3EIk=",
   "success": true,
-  "projectFilePath": "/home/hiiico/IdeaProjects/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/SeleniumWebDriver/TestProject3/TestProject3.csproj",
+  "projectFilePath": "/home/hiiico/IdeaProjects/DevOps/GitHub_Projects/SeleniumWebDriver/TestProject3/TestProject3.csproj",
   "expectedPackageFiles": [
     "/home/hiiico/.nuget/packages/coverlet.collector/3.1.2/coverlet.collector.3.1.2.nupkg.sha512",
     "/home/hiiico/.nuget/packages/microsoft.codecoverage/17.1.0/microsoft.codecoverage.17.1.0.nupkg.sha512",

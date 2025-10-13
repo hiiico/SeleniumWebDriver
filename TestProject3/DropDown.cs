@@ -14,7 +14,7 @@ namespace TestProject3
         // add to ensure browser is closed
         ChromeOptions options;
 
-        [SetUp]
+        [OneTimeSetUp]
         public void SetUp()
         {
             // add to ensure browser is closed
@@ -26,7 +26,7 @@ namespace TestProject3
             // Add implicit wait
             driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
         }
-        [TearDown]
+        [OneTimeTearDown]
         public void TearDown()
         {
             // Quit the driver

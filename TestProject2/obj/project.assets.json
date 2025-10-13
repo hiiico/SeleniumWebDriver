@@ -1400,11 +1400,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/hiiico/IdeaProjects/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/SeleniumWebDriver/TestProject2/TestProject2.csproj",
+      "projectUniqueName": "/home/hiiico/IdeaProjects/DevOps/GitHub_Projects/SeleniumWebDriver/TestProject2/TestProject2.csproj",
       "projectName": "TestProject2",
-      "projectPath": "/home/hiiico/IdeaProjects/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/SeleniumWebDriver/TestProject2/TestProject2.csproj",
+      "projectPath": "/home/hiiico/IdeaProjects/DevOps/GitHub_Projects/SeleniumWebDriver/TestProject2/TestProject2.csproj",
       "packagesPath": "/home/hiiico/.nuget/packages/",
-      "outputPath": "/home/hiiico/IdeaProjects/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/SeleniumWebDriver/TestProject2/obj/",
+      "outputPath": "/home/hiiico/IdeaProjects/DevOps/GitHub_Projects/SeleniumWebDriver/TestProject2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/hiiico/.nuget/NuGet/NuGet.Config"
